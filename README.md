@@ -27,6 +27,7 @@ it is for test
 
 [文件解說](doc/index.html)
 
+![皮卡丘](doc/pikachu)
 ![101圖](pic/101.jpg)</a>
 
 <ul type="disk">
